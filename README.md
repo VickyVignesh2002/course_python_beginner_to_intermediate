@@ -16,9 +16,6 @@ A comprehensive Python cheat sheet covering everything from basic syntax to adva
 - Cybersecurity
 - and much more!
 
-## 🌐 Live Demo
-
-Visit the live cheat sheet at: [https://vivitoa.github.io/python-cheat-sheet/](https://vivitoa.github.io/python-cheat-sheet/)
 
 ## 🚀 Features
 
